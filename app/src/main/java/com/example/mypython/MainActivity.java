@@ -36,7 +36,6 @@ public class MainActivity extends Activity {
     private String netWorkUrl="https://www.autohome.com.cn";
     private String bykey="box";
     public MyAdapter adapter;
-    private String TestString ="gogogo.con.i.know";
 
     private ImageView imageView;
     private List<Map<Integer, List<String>>> carListInfo = new ArrayList<Map<Integer, List<String>>>();
